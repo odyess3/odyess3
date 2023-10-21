@@ -1,5 +1,4 @@
-
-![pixel-jeff-clipc-s](https://github.com/odyess3/odyess3/assets/138304906/0eff1fbd-7d02-402d-aa76-f9ed3e647c68)
+![ezgif-4-32636d1d52](https://github.com/odyess3/odyess3/assets/138304906/9bf08c9c-44a1-4d45-83da-8b26b5dacc5e)
 
 
 <h1 align="center">Hi 👋, I'm Ody Nwagwu</h1>
