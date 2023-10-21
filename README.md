@@ -1,8 +1,10 @@
-![ezgif-4-32636d1d52](https://github.com/odyess3/odyess3/assets/138304906/9bf08c9c-44a1-4d45-83da-8b26b5dacc5e)
 
+![68747470733a2f2f692e696d6775722e636f6d2f4c65756836776d2e676966](https://github.com/odyess3/odyess3/assets/138304906/38fd4e6f-b13c-4dae-8f1f-89f5cece2da2)
 
 <h1 align="center">Hi 👋, I'm Ody Nwagwu</h1>
 <h3 align="center">A passionate frontend developer from Ireland</h3>
+<img align="right" alt="Coding" width="600" src="https://github.com/odyess3/odyess3/assets/138304906/7769e8e2-b970-4755-8241-3ad6fd1eef2d">
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=odyess3&label=Profile%20views&color=0e75b6&style=flat" alt="odyess3" /> </p>
