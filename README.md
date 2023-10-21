@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Ody Nwagwu</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from Ireland</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=odyess3&label=Profile%20views&color=0e75b6&style=flat" alt="odyess3" /> </p>
